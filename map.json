@@ -342,7 +342,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pad.foebud.org\/fo84ur843rud3vfw4ef2"
+                 "value":"https:\/\/pad.riseup.net\/p\/UXS64d0gzOrTzeMuSkK7"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -565,7 +565,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":57,
+ "nextlayerid":60,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
