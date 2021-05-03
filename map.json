@@ -378,7 +378,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Bar"
+                 "value":"ASH"
                 }],
          "type":"tilelayer",
          "visible":true,
